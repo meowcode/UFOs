@@ -22,6 +22,6 @@ Shape:
 Or a user can fill in all the criterias:
 ![All](https://user-images.githubusercontent.com/85198012/185476457-fe5644ce-3171-4f76-927b-9a20609e92a9.png)
 
-##Summary:
+## Summary:
 
 One drawback of this webpage is a user is not able to clear the filter criteria unless they refresh the page. In order to fix this issue, a clear button can be added so that the user is able to do a new search without having to refresh the page. Another update that can be useful is putting a list of cities, states, country and shapes so that the user can have a key to have a better idea of the data available.
